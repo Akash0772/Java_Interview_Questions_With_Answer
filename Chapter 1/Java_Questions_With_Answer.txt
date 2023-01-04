@@ -1,0 +1,114 @@
+#Java Interview Questions With Answer
+
+
+Question1:	What is OOPs ?	
+Answer:		OOPs stand's for Obejective Oriented Programming System Language , the main purpose of oops is to deal with real world entity using programming language.
+		The advantage of object oriented programming software development are shown below :
+		
+		a). Modular development of code , which leads easy maintaince and modification.
+		b). Reusability of code.
+		c). Improve readability and flexiability of code.
+		d). Increase understanding of code.
+		
+		Object Oriented Programming System Language contains many significant featuers such as Encapsulation , Inheritance , Polymorphism and Abstaction.
+
+
+
+Question2:	What is Encapsulation with example ?	
+Answer:		Encapsulation is Binding wrapping code and data together into a single unit are known as Encapsulation.
+		For Example : A capsule , it is wrapped with different medicines. 
+
+
+Question3:	What is tightly Encapsulation ?	
+Answer:		A java class is the example of encapsulation java bean is the fully tighly encapsulated class because all data members are private.
+		
+		#This is Encapuslation 
+		Java Programming ==>	class Solution{
+						private firstName;
+						private lastName;
+						public Address;
+						private Email;
+						}
+		
+		#This is tightly Encapsulation
+		Java Programming ==>	class Solution{
+						private firstName;
+						private lastName;
+						private Address;
+						private Email;
+						}
+
+
+
+
+
+Question4:	What is Polymorphism with example ?	
+Answer:		If one task is performed in different ways , it is known as Polymorphism.
+		For Example : A boy start love with word and a girl end love with same word , the same word and different attitude. This conscept nothing
+			      but it is polymorphism.
+
+
+
+Question5:	How many types of Poymorphism ?	
+Answer:		There are 2 types of polymorphism :
+
+		a). Compile time polymorphism	(Overloding Method)
+		b). Run time polymorphism 	(Overriding Method)
+
+
+
+Question6:	What is Inheritance ?	
+Answer:		When one object acquires all the properties and behaviors of a parent object , it is known as inheritance. It provides code reusability. It is used
+		achive run time polymorphism.
+
+
+
+Question7:	How many type of Inheritance ?	
+Answer:		There are 5 types of Inheritance :
+
+		Supported Inheritance
+		
+		a). Single Inheritance
+		b). Multilevel Inheritance
+		c). Hierachical Inheritance
+		
+		Not Supported Inheritance
+		
+		d). Multiple Inheritance
+		e). Hybride Inheritance
+
+
+
+
+Question8:	What is Abstraction with example ?
+Answer:		Hiding internal details and showing functionality is knowns as abstraction.
+		For Example : Phone call , we don't know the internal processing
+		
+		In java , we use abstract class and interface to achieve abstraction.
+
+
+
+
+
+Question9:	What is difference between Abstaction and Encapsulation ?
+Answer:				Abstaction			    ==				 Encapsulation
+		a). It solve an issue at the design.		    ==		a). It solve an issues at implementation level.
+		b). It focus on the external lookout.		    ==		b). It is focus on the internal working.
+		c). It can be implement using abstract classes	    ==		c). It can be implement by using the access modifiers
+		    and interface.					    	    (private, protected, default, public)
+		d). It is the process of gaining information.	    ==		d). It is process of containing the information.
+		e). The objects are encapsulated that helps to 	    ==		e). The object need not to abstrract that result in
+		    perform abstract.					    	    encapsulation.
+
+
+
+
+Question10:	What is Overloading with example?
+Answer:		The same name and different arrgumnt types is called method overloading.
+		For Example : Rest Password , the same name but different argument types.
+
+
+
+
+Question10:	What is Overriding with example?
+Answer:
