@@ -105,7 +105,7 @@ Answer:				Abstaction			    ==				 Encapsulation
 
 Question10:	What is Overloading with example?
 Answer:		The same name and different arrgumnt types is called method overloading.
-		For Example : Rest Password , the same name but different argument types.
+		For Example : Reset Password , the same name but different argument types.
 
 
 
